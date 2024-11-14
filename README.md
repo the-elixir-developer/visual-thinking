@@ -4,19 +4,6 @@
 
 <img width="992" alt="image" src="https://github.com/user-attachments/assets/6cbabd8c-972b-4afb-8176-608bae9d1c9e">
 
-Why worth it **learn Visual Thinking** if you're a developer? 💻
-
-- **🖍️ Enhanced Problem Solving:** Visual Thinking helps decompose complex problems into simpler, more manageable visual representations, making it easier to understand and approach technical challenges.
-- **🖍️ Improved Code Comprehension:** Visualizing code structures, data flows, and dependencies can clarify relationships and functions within a codebase, especially in systems with many interdependent components.
-- **🖍️ Better Communication with Teams:** Drawing and visual explanations facilitate clearer communication among team members, making it easier to convey design decisions, bug solutions, or code review feedback.
-- **🖍️ Faster Onboarding:** Visual aids can make onboarding new team members more efficient, as diagrams and sketches provide context and clarity that speed up understanding of project architecture and workflows.
-- **🖍️ Efficient Debugging and Refactoring:** Sketching data flows or process interactions helps in spotting potential bottlenecks, bugs, and refactoring opportunities that may not be obvious through code alone.
-- **🖍️ Enhanced Cognitive Processing:** Visual Thinking engages spatial and visual parts of the brain, promoting better retention and understanding of complex information, especially when learning new concepts or languages.
-- **🖍️ Tool for Creativity and Innovation:** Visual Thinking encourages out-of-the-box thinking, enabling developers to creatively brainstorm new features, optimize existing systems, and explore alternative solutions.
-- **🖍️ Documentation that Speaks for Itself:** Visual Thinking can make technical documentation more engaging and accessible, allowing for quick reference diagrams that are often more intuitive than text descriptions alone.
-- **🖍️ User-Centered Perspective:** Drawing out user flows, interfaces, and experience journeys helps developers think from the user’s perspective, leading to more user-friendly design choices.
-- **🖍️ Better Planning and Architecture Design:** Visuals are essential when planning new features or system architectures, allowing you to explore design options before committing to code.
-
 # Visual Thinking as a cognitive tool 🧠
 
 <img width="995" alt="image" src="https://github.com/user-attachments/assets/a6c007a6-0622-40ef-9bc0-4d8565574a51">
@@ -74,7 +61,24 @@ If you want to explore all the advantage of Visual Thinking consider there are m
 
 <img width="993" alt="image" src="https://github.com/user-attachments/assets/d670bcf6-c223-4938-b156-74867cdb14ef">
 
+<img width="996" alt="image" src="https://github.com/user-attachments/assets/fcfc9b44-60b0-4247-b93d-f036ff0508c2">
 
+<img width="993" alt="image" src="https://github.com/user-attachments/assets/ec007392-4f85-453a-9635-baad59b3c6be">
+
+<img width="991" alt="image" src="https://github.com/user-attachments/assets/31e72ea9-33b0-4efe-8cf6-84f6d4e526f7">
+
+Why worth it **learn Visual Thinking** if you're a developer? 💻
+
+- **🖍️ Enhanced Problem Solving:** Visual Thinking helps decompose complex problems into simpler, more manageable visual representations, making it easier to understand and approach technical challenges.
+- **🖍️ Improved Code Comprehension:** Visualizing code structures, data flows, and dependencies can clarify relationships and functions within a codebase, especially in systems with many interdependent components.
+- **🖍️ Better Communication with Teams:** Drawing and visual explanations facilitate clearer communication among team members, making it easier to convey design decisions, bug solutions, or code review feedback.
+- **🖍️ Faster Onboarding:** Visual aids can make onboarding new team members more efficient, as diagrams and sketches provide context and clarity that speed up understanding of project architecture and workflows.
+- **🖍️ Efficient Debugging and Refactoring:** Sketching data flows or process interactions helps in spotting potential bottlenecks, bugs, and refactoring opportunities that may not be obvious through code alone.
+- **🖍️ Enhanced Cognitive Processing:** Visual Thinking engages spatial and visual parts of the brain, promoting better retention and understanding of complex information, especially when learning new concepts or languages.
+- **🖍️ Tool for Creativity and Innovation:** Visual Thinking encourages out-of-the-box thinking, enabling developers to creatively brainstorm new features, optimize existing systems, and explore alternative solutions.
+- **🖍️ Documentation that Speaks for Itself:** Visual Thinking can make technical documentation more engaging and accessible, allowing for quick reference diagrams that are often more intuitive than text descriptions alone.
+- **🖍️ User-Centered Perspective:** Drawing out user flows, interfaces, and experience journeys helps developers think from the user’s perspective, leading to more user-friendly design choices.
+- **🖍️ Better Planning and Architecture Design:** Visuals are essential when planning new features or system architectures, allowing you to explore design options before committing to code.
 
 
 
