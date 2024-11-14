@@ -27,6 +27,21 @@ Why worth it **learn Visual Thinking** if you're a developer?
 
 <img width="990" alt="image" src="https://github.com/user-attachments/assets/cefdbedc-f852-4566-ad5e-0d2d32ed5f03">
 
+If you want to explore all the advantage of Visual Thinking consider there are many skills to practice, I prepared this learning framework to guide you through this world:
+
+<img width="993" alt="image" src="https://github.com/user-attachments/assets/39984032-998d-428a-8abb-a92052b677f0">
+
+- **🎨 Drawing Reconciliation:** Revisiting and refining visual representations to improve clarity, accuracy, and relevance, ensuring visuals are aligned with evolving ideas and insights.
+- **🎨 Sketchnoting:** Capturing ideas and information in real-time by combining words and visuals, creating a structured and engaging summary of complex topics or conversations.
+- **🎨 Experimental Drawing:** Exploring unconventional or abstract ways of drawing to encourage creative expression, idea exploration, and visual problem-solving outside traditional frameworks.
+- **🎨 Active Listening:** Paying close attention to spoken information and converting it into visual notes and symbols, enhancing understanding and retention of key ideas.
+- **🎨 Visual Synthesis:** Condensing complex information into a simplified, cohesive visual form that emphasizes essential elements and connections, helping audiences quickly grasp the main points.
+- **🎨 Personal Iconography:** Developing a unique set of symbols and icons that represent common themes or concepts, creating a personal “visual dictionary” for more effective and consistent communication.
+- **🎨 Human Data Visualization:** Representing data in ways that are not only accurate but also human-centered and relatable, making data insights accessible and engaging for diverse audiences.
+- **🎨 Graphic Recording:** Creating real-time visual notes during live events or presentations, capturing the flow and highlights of discussions in a way that preserves and enhances the original content.
+- **🎨 Visual Collaboration:** Using visuals to facilitate teamwork, ideation, and problem-solving among team members, creating shared understanding and alignment through diagrams, sketches, and flowcharts.
+- **🎨 Visual Structures:** Organizing information into structured layouts, such as grids, hierarchies, and mind maps, to clarify relationships and create visually coherent frameworks.
+
 
 ## Book references:
 
