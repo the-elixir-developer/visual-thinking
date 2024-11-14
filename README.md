@@ -19,7 +19,14 @@ Why worth it **learn Visual Thinking** if you're a developer?
 
 # Visual Thinking as a cognitive tool
 
+<img width="995" alt="image" src="https://github.com/user-attachments/assets/a6c007a6-0622-40ef-9bc0-4d8565574a51">
+
 <img width="991" alt="image" src="https://github.com/user-attachments/assets/d4b09980-8e64-48fa-9439-be1b615bca3c">
+
+<img width="992" alt="image" src="https://github.com/user-attachments/assets/5a101f20-0ed2-456e-804a-4f7aca563a8d">
+
+<img width="990" alt="image" src="https://github.com/user-attachments/assets/cefdbedc-f852-4566-ad5e-0d2d32ed5f03">
+
 
 ## Book references:
 
