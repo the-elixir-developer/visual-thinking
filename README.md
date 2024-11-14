@@ -63,11 +63,9 @@ If you want to explore all the advantage of Visual Thinking consider there are m
 
 <img width="996" alt="image" src="https://github.com/user-attachments/assets/fcfc9b44-60b0-4247-b93d-f036ff0508c2">
 
-<img width="993" alt="image" src="https://github.com/user-attachments/assets/ec007392-4f85-453a-9635-baad59b3c6be">
-
 <img width="991" alt="image" src="https://github.com/user-attachments/assets/31e72ea9-33b0-4efe-8cf6-84f6d4e526f7">
 
-Why worth it **learn Visual Thinking** if you're a developer? 💻
+## Why is it worth learning Visual Thinking as a developer? 💻
 
 - **🖍️ Enhanced Problem Solving:** Visual Thinking helps decompose complex problems into simpler, more manageable visual representations, making it easier to understand and approach technical challenges.
 - **🖍️ Improved Code Comprehension:** Visualizing code structures, data flows, and dependencies can clarify relationships and functions within a codebase, especially in systems with many interdependent components.
@@ -80,6 +78,77 @@ Why worth it **learn Visual Thinking** if you're a developer? 💻
 - **🖍️ User-Centered Perspective:** Drawing out user flows, interfaces, and experience journeys helps developers think from the user’s perspective, leading to more user-friendly design choices.
 - **🖍️ Better Planning and Architecture Design:** Visuals are essential when planning new features or system architectures, allowing you to explore design options before committing to code.
 
+<img width="993" alt="image" src="https://github.com/user-attachments/assets/ec007392-4f85-453a-9635-baad59b3c6be">
+
+This are some ideas about where to apply **Visual Thinking**:
+
+- Sketch PRs with Your Own **Code Contributions** 
+- Illustrate PRs from Others to **Give Better Feedback**
+- Create **Notations for Flows** (Code Release, CI/CD, Environments, Team Practices, Company Flows)
+- Illustrate **Technical Concepts** Alongside Other Diagrams
+- Create Simple **Summaries for Frameworks**
+- Create Visual Notes as a **Diary for Personal Feedback**
+- Help Create Visual Summaries to Keep **Business Logic Fresh Across Teams**
+
+Here you have some examples:
+  
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <p align="center">
+        Drawing code components flow.
+      </p>
+    </td>
+    <td width="50%">
+      <p align="center">
+        <img src="https://github.com/user-attachments/assets/67ff2533-74fa-4c29-9bb3-d78c46d4eb04" width="100%"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center">
+        Explaining visually the lifecycle of a Live View step by step.
+      </p>
+    </td>
+    <td width="50%">
+      <p align="center">
+        <img src="https://github.com/user-attachments/assets/dabe653e-6223-47b2-aee5-cf4cd6204d0a" width="100%"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center">
+        Explaining how to achieve fault tolerance in the TANDEM computer using processes.
+      </p>
+    </td>
+    <td width="50%">
+      <p align="center">
+        <img src="https://github.com/user-attachments/assets/858eca49-7bf4-45c5-89c8-60ae5ac5c9fa" width="100%"/>
+      </p>
+    </td>
+  </tr>  
+</table>
+
+## Where to start? 🖍️
+
+- Start with Sketchnoting
+- Experiment with Drawing Code Concepts
+- Use Visuals for Feedback, you can use tools like https://excalidraw.com/ or https://www.tldraw.com/
+- Build a Personal Iconography
+- Create Visual Summaries of Complex Processes
+- Map Out Frameworks and Libraries
+- Document Your Progress Visually
+- Collaborate Using Visuals
+
+I developer a short **visual thinking introduction workshop** for developers: https://github.com/visualpartnership/visual-thinking-workshop 🚀
+
+And also you can check some trainings I made: https://github.com/visualpartnership/visualthinking?tab=readme-ov-file
+
+If you start to make exercises, don't hesiate to open a ISSUE with your visuals, so I'll have the opportunity to give you feedback. 
+
+<img width="988" alt="image" src="https://github.com/user-attachments/assets/37666692-cc81-4ace-991d-c7002dc4ccf2">
 
 
 
