@@ -142,6 +142,11 @@ Here you have some examples:
 - Document Your Progress Visually
 - Collaborate Using Visuals
 
+Some references:
+- What it is a Live View? https://medium.com/@carlogilmar/phoenix-live-view-what-is-it-a218b2a5fcaa
+- Welcome Elixir https://github.com/the-elixir-developer/welcome-elixir
+- Distributed Systems Notes https://github.com/the-elixir-developer/architecting-reactive-systems 
+
 I developer a short **visual thinking introduction workshop** for developers: https://github.com/visualpartnership/visual-thinking-workshop 🚀
 
 And also you can check some trainings I made: https://github.com/visualpartnership/visualthinking?tab=readme-ov-file
